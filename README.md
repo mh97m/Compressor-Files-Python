@@ -4,7 +4,7 @@
 This Code Compress files of directory that you gave in arguments.
 
 
-## Algorithms :
+## Algorithms
 
 * gzip
 * bzip2
@@ -27,7 +27,7 @@ python3 is prefix for execute python files in linux.
 
 py is prefix for execute python files in windows.
 
-### Compression :
+### Compression
 
 ```bashe
 python3 compress.py /path/to/directory gzip
