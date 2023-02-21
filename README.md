@@ -55,4 +55,4 @@ Some other popular compression algorithms include:
 
 * zstd: a relatively new compression algorithm that is designed to be very fast while still achieving good compression ratios. It can be a good choice for large files that need to be compressed quickly.
 
--Compress-Compress files-bzip2: a compression algorithm-gzip: a compression algorithm-xz: a compression algorithm-zst: a compression algorithm
+-Compress-Compress files-bzip2: a compression algorithm-gzip: a compression algorithm-xz: a compression algorithm-zst: a compression algorithm-Compress using python-Python compressor-Python file compressor
